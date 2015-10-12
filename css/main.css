@@ -1,0 +1,49 @@
+body { background-color: #eee; }
+.navbar-inverse { background-color: #363d47; }
+#scarousel {  }
+#scarousel .carousel-inner { height: 400px; text-align: center; }
+#scarousel .carousel-inner .item img { display: inline; }
+#scarousel .carousel-caption { width: 100%; left: 0; background: rgba(0,0,0,0.7); }
+.jumbotron h1 { margin-bottom: 0; }
+#jumbotron-more p { font-size: 14px; font-weight: normal; }
+#technologyes ul.list-inline li { padding: 10px 15px; }
+#footer-page
+{
+    margin: 40px -40px 0 -40px;
+    padding: 20px 40px;
+    background-color: #fff;
+}
+
+.spanel
+{
+    margin: 30px 0; padding: 15px; background-color: #fff;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+}
+.spanel h3 { margin-top: 5px; }
+.spanel-loading { width: 40px; height: 40px; float: right; }
+.spanel .btn-more
+{ border-radius: 0; color: #fff; background-color: #1AB394; border-color: #1AB394; }
+.spanel .btn-more:hover { background-color: #18A689; border-bottom-color: #18A689; }
+.shint { color: #777; }
+.sdecorative { color: #006673; }
+.scroll-wrapper { height: 400px; overflow-y: auto; }
+
+.sistems h3 { margin-bottom: 0; }
+.sistems-office { margin-bottom: 10px; color: #800000; }
+.sistems-icon { height: 200px; border-radius: 5px; }
+.modal-body img { width: 100%; }
+.sistems ul { padding-left: 0; list-style: none; }
+.sistems ul li { padding: 10px 0; border-bottom: 1px solid #ddd; }
+.sistems h4 { margin-top: 20px; margin-bottom: 0; }
+.sistems .badge { margin: 0 5px; }
+.sistems-todos { height: 200px; }
+.sistems-todos .badge { float: right; border-radius: 5px; }
+#desarrollo .sistems-todos .badge { background-color: #f8Ac59; }
+#soporte .sistems-todos .badge { background-color: #ff0066; }
+.sistems-events { height: 430px; }
+.sistems-event-date
+{ padding: 1px 8px; color: #fff; border-radius: 0.25em; }
+#desarrollo .sistems-event-date { background-color: #1c84c6; }
+#soporte .sistems-event-date { background-color: #534292; }
+.initiative-icon { border-radius: 50%; }
+#iniciativas .table > tbody > tr > td { border: none; }

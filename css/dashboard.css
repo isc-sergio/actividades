@@ -1,0 +1,125 @@
+/*
+ * Base structure
+ */
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+#navbar-padding { padding-top: 40px; }
+.sidebar {
+  display: none;
+}
+@media (min-width: 768px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 10px 20px 20px 20px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: #363d47;
+    border-right: 1px solid #eee;
+  }
+}
+
+#activities h4 { color: #fff; font-weight: bold; text-align: center; }
+#profile {
+    margin-right: -21px; margin-left: -20px;
+    background: url("../img/profile_bg.jpg") no-repeat center;
+    color: #c2c4cc; text-align: center;
+}
+@media (min-width: 1900px) {
+    #profile { background-size: cover; }
+}
+#profile ul { background: rgba(0,0,0,0.7); list-style: none; }
+#profile a { color: #d4d5d9; }
+#profile img { margin: 30px 0 5px 0; }
+#profile ul { padding: 5px 0 10px 0; }
+#profile-wrapper p { padding-top: 2px; }
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -21px; /* 20px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.sidebar hr {
+    margin-right: -21px; margin-left: -20px; margin-bottom: 0;
+    border-color: #30353e; border-width: 2px;
+}
+.sidebar, .sidebar a, .nav-sidebar > li > a { color: #a4a6b5; font-weight: bold; }
+.sidebar .normal-weight { font-weight: normal; }
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > li > a:hover, .nav-sidebar > li > a:focus,
+.sidebar a:hover, .sidebar a:focus
+{ color: #fff; background-color: transparent; }
+.nav-sidebar > .active > a {
+    box-shadow: inset 0 5px 5px -7px rgba(0,0,0,0.8),
+                inset 0 -5px 5px -7px rgba(0,0,0,0.8);
+}
+.nav-sidebar > .active
+{ background-color: #292c34; }
+.nav-sidebar a .glyphicon { margin-right: 10px; }
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px 20px 0 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}

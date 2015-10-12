@@ -1,0 +1,37 @@
+[
+    {
+        "date": "09/Oct/2015",
+        "event": "Creación de estructura y estilos CSS para una galería con información y asesoría con el diseño responsivo",
+        "tags": "uruapan.gob.mx asesoría en WordPress"
+    },
+    {
+        "date": "05/Oct/2015",
+        "event": "Intalar, configurar y generar acceso OBDC para el sistema de Nómina en un equipo con el sistema operativo reinstalado",
+        "tags": "sistema de Nómina"
+    },
+    {
+        "date": "05/Oct/2015",
+        "event": "Restaurar acceso al sistema Control de Compras en la computadora de Luis Bernardo en adquisiciones",
+        "tags": "sistema Control de Compras"
+    },
+    {
+        "date": "30/Sep/2015",
+        "event": "Agregar nuevos usuarios al sistema Control de Compras",
+        "tags": "sistema Control de Compras, Oficio DAA/ 033 /2015"
+    },
+    {
+        "date": "29/Sep/2015",
+        "event": "Cotización de hospedaje web para el contador Pedro en adquisiciones",
+        "tags": "sistema Control de Vales de Combustible"
+    },
+    {
+        "date": "29/Sep/2015",
+        "event": "Reparación de inicio de sesión, error en objeto ActiveX, en una computadora de adquisiciones",
+        "tags": "sistema Control de Compras"
+    },
+    {
+        "date": "22/Sep/2015",
+        "event": "Reparación de inicio de sesión, error en objeto ActiveX, en la computadora de Miguel en adquisiciones",
+        "tags": "sistema Control de Compras"
+    }
+]

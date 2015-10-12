@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Control de Compras",
+        "office": "Dirección de Adquisiciones y Arrendamientos",
+        "startdate": "01/Sep/2015",
+        "inproduction": "Si",
+        "img": "compras.jpg",
+        "imgmodalid": "compras",
+        "events": [
+            {
+                "date": "07/Oct/2015",
+                "event": "Creación de repositorio Git para control de versiones"
+            },
+            {
+                "date": "07/Oct/2015",
+                "event": "Análisis del sistema para agregar mejoras de usabilidad y agilizar los procesos"
+            },
+            {
+                "date": "30/Sep/2015",
+                "event": "Agregar nuevos usuarios al combo cotizadores en nueva requisición"
+            },
+            {
+                "date": "30/Sep/2015",
+                "event": "Crear soporte e interface para administrar usuarios"
+            },
+            {
+                "date": "06/Oct/2015",
+                "event": "Agregar usuarios al combo cotizadores en editar requisición"
+            }
+        ],
+        "todos": [
+            {
+                "description": "En el listado de vales de compra, conocer cual es el número de su requisición",
+                "priority": 3
+            },
+            {
+                "description": "Conocer si una requisición tiene ninguno, uno o varios vales de compra (conocer el folio del vale)",
+                "priority": 3
+            },
+            {
+                "description": "Columna de cotizador para el listado de requisiciones",
+                "priority": 4
+            },
+            {
+                "description": "Poder revisar la carga de trabajo de cada cotizador (atrículos procesados)",
+                "priority": 4
+            },
+            {
+                "description": "Filtrar las requisiciones por cotizador",
+                "priority": 3
+            },
+            {
+                "description": "Filtrar por oficina en el listado de requisiciones",
+                "priority": 4
+            },
+            {
+                "description": "Conocer cuales vales están pendientes. Actualmente un indicio es ver la fecha de la cotización pero lo mejor sería en función del vale de compra",
+                "priority": 3
+            },
+            {
+                "description": "Informan que al hacer Tab en cierto campo en cierto momento del roceso se bloquea el sistema",
+                "priority": 2
+            },
+            {
+                "description": "Responder a la pregunta ¿por qué escriben un punto en el campo Med/Desc cuando se agregan los productos a la requisicion?",
+                "priority": 1
+            }
+        ]
+    },
+    {
+        "name": "Control de Cartillas del Servicio Militar Nacional",
+        "office": "Secretaría del H. Ayuntamiento",
+        "startdate": "01/Sep/2014",
+        "inproduction": "Si",
+        "img": "cartillas.png",
+        "imgmodalid": "cartillas",
+        "events": [
+            {
+                "date": "26/Mar/2015",
+                "event": "Reporte Libro de registro entregado"
+            },
+            {
+                "date": "15/Oct/2014",
+                "event": "Análisis y desarrollo de todos los reportes necesarios"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Trabajar en conjunto con la responsable para llevar a buen fin la generación y entrega de todo los reportes",
+                "priority": 4
+            },
+            {
+                "description": "Migrar el sistema a la versión 2 de Yii framework o zend studio",
+                "priority": 2
+            }
+        ]
+    },
+    {
+        "name": "Control de Cartas y Certificados",
+        "office": "Secretaría del H. Ayuntamiento",
+        "startdate": "01/Jun/2015",
+        "inproduction": "Si",
+        "img": "certificados.png",
+        "imgmodalid": "certificados",
+        "events": [
+            {
+                "date": "18/Ago/2015",
+                "event": "Mas correcciones y agregar otros listados"
+            },
+            {
+                "date": "13/Ago/2015",
+                "event": "Corregir y agregar listados"
+            },
+            {
+                "date": "09/Jun/2015",
+                "event": "Corrección de codificación de caracteres en todos los reportes"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Preguntar si necesita algúna mejora",
+                "priority": 1
+            }
+        ]
+    },
+    {
+        "name": "Control de Servicios Generales",
+        "office": "Secretaría del H. Ayuntamiento",
+        "startdate": "01/Jun/2015",
+        "inproduction": "Desconocido",
+        "img": "serviciosgenerales.png",
+        "imgmodalid": "serviciosgenerales",
+        "events": [
+            {
+                "date": "01/Jun/2015",
+                "event": "Estar listo para dar soporte en éste sistema y sus bases de datos"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Indagar si está en uso, si no, hacer lo necesrio para implementarlo",
+                "priority": 2
+            },
+            {
+                "description": "Preguntar si necesita algúna mejora",
+                "priority": 2
+            }
+        ]
+    },
+    {
+        "name": "Ventanilla Única Municipal",
+        "office": "Dirección de Innovasión Tecnológica y Sistema Interno",
+        "startdate": "01/Sep/2013",
+        "inproduction": "No",
+        "img": "ventanillaunica.png",
+        "imgmodalid": "ventanillaunica",
+        "events": [
+            {
+                "date": "01/Sept/2015",
+                "event": "Hacer merge de los módulos dispersos y preparar una copia lical y funcional en al menos dos computadoras"
+            },
+            {
+                "date": "01/May/2015",
+                "event": "Copia de seguridad de todo el sistema, incluyendo repositorio git y bases de datos"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Migrar el sistema a la versión 2 de Yii framework",
+                "priority": 1
+            }
+        ]
+    },
+    {
+        "name": "Control de Vales de Combustible (legacy)",
+        "office": "Dirección de Adquisiciones y Arrendamientos",
+        "startdate": "01/Sep/2014",
+        "inproduction": "Si con reservas",
+        "img": "combustible.jpg",
+        "imgmodalid": "combustible",
+        "events": [
+            {
+                "date": "01/Sep/2015",
+                "event": "Estar listo para dar soporte en éste sistema y sus bases de datos"
+            }
+        ],
+        "todos": []
+    }
+]

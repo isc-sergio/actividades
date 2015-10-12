@@ -1,0 +1,82 @@
+[
+	{
+        "title": "GitHub",
+        "url": "https://github.com/",
+        "description": "Trabajar con éste proveedor de repositorios para aprender mas sobre el uso de la tecnología de subversionado git",
+        "status": "Tecnología aprendida",
+        "tags": "desarrollo de software",
+        "icono": "github.png"
+    },
+    {
+        "title": "Heroku",
+        "url": "https://heroku.com/",
+        "description": "Aprender el uso de éste proveedor de servicios web de nueva generación",
+        "status": "Aprendiendo",
+        "tags": "aplicación web",
+        "icono": "heroku_logo.png"
+    },
+    {
+        "title": "AngularJS",
+        "url": "https://angularjs.org",
+        "description": "Crear una aplicación web para aprender Angular JS, valorar la tecnología y compararla con similares para formar un criterio propio",
+        "status": "Criterio propio generado",
+        "tags": "aplicación web y javascript",
+        "icono": "angularjs.png"
+    },
+    {
+        "title": "Actividades",
+        "url": "http://actividades.herokuapp.com/",
+        "description": "Se trata de una aplicación web para informar de mis actividades de una forma amigable",
+        "status": "Versión 1.0 alcanzada",
+        "tags": "informe de actividades con diseño e interface humana",
+        "icono": "apple-touch-icon.png"
+    },
+    {
+        "title": "Ubuntu",
+        "url": "http://www.ubuntu.com/server",
+        "description": "Experimentar con las funcionalidades y revisar las características para determinar su uso como servidor",
+        "status": "Es una de las mejore sopciones considerando el enfoque del sistema operativo y un gran punto a su favor es la paquetería de Zentyal para administrar el servidor",
+        "tags": "servidor UNIX like",
+        "icono": "ubuntu.png"
+    },
+    {
+        "title": "FreeBSD",
+        "url": "http://freebsd.org",
+        "description": "Analizar el sistema operativo para ser usado como servidor y plataforma de desarrollo",
+        "status": "Como servidor tiene claras ventajas aunque para desarrollo de software la configuración inicial lleva algún tiempo tomando en cuenta la compilación de paquetes",
+        "tags": "servidor y estación de trabajo UNIX like",
+        "icono": "freebsd_logo-red.png"
+    },
+    {
+        "title": "Fedora",
+        "url": "https://getfedora.org/",
+        "description": "Valorar al sistema operativo en su versión workstation para ser usado como plataforma de desarrollo",
+        "status": "Cómo estación de trabajo para desarrollo de software todo apunta a que es una excelente opción",
+        "tags": "estación de trabajo GNU/Linux",
+        "icono": "fedora.png"
+    },
+    {
+        "title": "Linux Mint",
+        "url": "http://linuxmint.com/",
+        "description": "Una de las distribuciones mas populares según distrowatch, basado en ubuntu es un sistema operativo importante a considerar como alternativa a windows",
+        "status": "Por las características destacadas como basado en ubuntu, gran soporte hardware, actualizaciones y soporte contínuo además de que el flujo de trabajo con el escritorio cinnamon es parecido al de windows lo convierten el la alternativa con mejor puntaje",
+        "tags": "alternativa de software libre a windows",
+        "icono": "linuxmint.png"
+    },
+    {
+        "title": "OpenSUSE",
+        "url": "https://www.opensuse.org/",
+        "description": "Revisar si dispone de lo necesario para convertirse en una alternativa de escritorio a windows y si como estación de trabajo para el desarrollo de software es buena opción",
+        "status": "Por las características como buen soporte de hardware, codecs incluidos y la excelente herramienta de comfiguración Yast este sistema operativo es una opción fuerte a considerar. Como plataforma de desarrollo no dispone de lo necesario",
+        "tags": "alternativa de software libre a windows y estación de trabajo GNU/Linux",
+        "icono": "opensuse.png"
+    },
+    {
+        "title": "Debian",
+        "url": "https://www.debian.org/",
+        "description": "Comprobar la viabilidad del sistema operativo para ser usado como reemplazo a windows, los escritorios objetivos son KDE y XFCE",
+        "status": "No es viable por la restricción de software con licencia propietaria, pero, si se usa exclusivamente como estación de trabajo es un sistema operativo tan fuerte como una roca",
+        "tags": "alternativa de software libre a windows",
+        "icono": "debian.png"
+    }
+]

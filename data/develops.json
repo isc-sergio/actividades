@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Control de Vales de Combustible",
+        "office": "Dirección de Adquisiciones y Arrendamientos",
+        "status": "En Producción",
+        "img": "combustible.png",
+        "imgmodalid": "combustible",
+        "events": [
+            {
+                "date": "23/Sep/2015",
+                "event": "Análisis preeliminar para mejorar el formato de los folios"
+            },
+            {
+                "date": "21/Sep/2015",
+                "event": "Análisis preeliminar de cierre de vales"
+            },
+            {
+                "date": "18/Sep/2015",
+                "event": "Mejoras menores agregadas"
+            },
+            {
+                "date": "17/Sep/2015",
+                "event": "Se agregó la información de registros no importados a la hora de importar datos de surtido"
+            },
+            {
+                "date": "15/Sep/2015",
+                "event": "Marca y tipo del vehículo en vales impresos. Mejoras menores en diseño y estilos"
+            },
+            {
+                "date": "14/Sep/2015",
+                "event": "Mejoras menores en los procesos de generación de vales programados"
+            },
+            {
+                "date": "11/Sep/2015",
+                "event": "Importar datos de surtido completado"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Mejorar el formato de los folios para una fácil lectura",
+                "priority": 3
+            },
+            {
+                "description": "Analizar la mejor manera de crear un cierre de periodo para que los vales de combustible cerrados ya no se puedan editar",
+                "priority": 4
+            },
+            {
+                "description": "Desarrollar el algoritmo de cierre o bloqueo de vales de combustible",
+                "priority": 4
+            },
+            {
+                "description": "Analizar la mejor manera de crear la sesión de usuarios ya sea con el control de acceso basado en roles o algo mas sencillo",
+                "priority": 3
+            },
+            {
+                "description": "Implementar la sesión de usuarios",
+                "priority": 3
+            },
+            {
+                "description": "Implementar la administración de usuarios",
+                "priority": 3
+            },
+            {
+                "description": "Desarrollar los reportes necesarios",
+                "priority": 2
+            },
+            {
+                "description": "Desarrollar un algoritmo de comportamiento para evitar errores de camptura tanto para los folios de los vales como los folios de las requisiciones",
+                "priority": 2
+            }
+        ]
+    },
+    {
+        "name": "Actividades",
+        "office": "Secretaría de Planeación",
+        "status": "En Producción",
+        "img": "actividades.png",
+        "imgmodalid": "actividades",
+        "events": [
+            {
+                "date": "09/Oct/2015",
+                "event": "Interfaz humana"
+            },
+            {
+                "date": "08/Oct/2015",
+                "event": "Alimentar"
+            },
+            {
+                "date": "06/Oct/2015",
+                "event": "Creasión de estructuras de datos en formato JSON"
+            },
+            {
+                "date": "05/Oct/2015",
+                "event": "Implementar funcionalidad con AngularJS"
+            },
+            {
+                "date": "02/Oct/2015",
+                "event": "Diseños y vistas"
+            },
+            {
+                "date": "01/Oct/2015",
+                "event": "Diseños y estilos"
+            },
+            {
+                "date": "29/Sep/2015",
+                "event": "Estructuras HTML5"
+            },
+            {
+                "date": "28/Sep/2015",
+                "event": "Puesta en marcha. Creación del repositorio Git"
+            },
+            {
+                "date": "25/Sep/2015",
+                "event": "Análisis y planeación"
+            }
+        ],
+        "todos": [
+            {
+                "description": "Mantener la aplicación alimentada con información",
+                "priority": 4
+            }
+        ]
+    }
+]
