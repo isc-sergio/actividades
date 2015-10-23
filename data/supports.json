@@ -8,6 +8,10 @@
         "imgmodalid": "compras",
         "events": [
             {
+                "date": "20/Oct/2015",
+                "event": "Análisis de los reportes para agregar mejoras solicitadas"
+            },
+            {
                 "date": "07/Oct/2015",
                 "event": "Creación de repositorio Git para control de versiones"
             },
@@ -76,6 +80,14 @@
         "imgmodalid": "cartillas",
         "events": [
             {
+                "date": "22/Oct/2015",
+                "event": "Minería de datos y adecuación de reportes"
+            },
+            {
+                "date": "19/Oct/2015",
+                "event": "Corrección de algunos registros en su número de matrícula"
+            },
+            {
                 "date": "26/Mar/2015",
                 "event": "Reporte Libro de registro entregado"
             },
@@ -86,7 +98,7 @@
         ],
         "todos": [
             {
-                "description": "Trabajar en conjunto con la responsable para llevar a buen fin la generación y entrega de todo los reportes",
+                "description": "Trabajar en conjunto con Sandra para llevar a buen fin la generación y entrega de todo los reportes",
                 "priority": 4
             },
             {

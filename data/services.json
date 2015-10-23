@@ -1,5 +1,15 @@
 [
     {
+        "date": "23/Oct/2015",
+        "event": "Respaldo en CD de las hojas amarilla y azul",
+        "tags": "sistema Control de Cartillas del Servicio Militar Nacional"
+    },
+    {
+        "date": "19/Oct/2015",
+        "event": "Configuración de scaner y asesoría",
+        "tags": "sistema Control de Cartillas del Servicio Militar Nacional"
+    },
+    {
         "date": "09/Oct/2015",
         "event": "Creación de estructura y estilos CSS para una galería con información y asesoría con el diseño responsivo",
         "tags": "uruapan.gob.mx asesoría en WordPress"
