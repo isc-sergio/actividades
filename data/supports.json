@@ -8,8 +8,20 @@
         "imgmodalid": "compras",
         "events": [
             {
+                "date": "26/Oct/2015",
+                "event": "Reportes de requisiciones, correciones y mejoras terminadas"
+            },
+            {
                 "date": "20/Oct/2015",
                 "event": "Análisis de los reportes para agregar mejoras solicitadas"
+            },
+            {
+                "date": "14/Oct/2015",
+                "event": "Filtrar por oficina el listado de requisiciones"
+            },
+            {
+                "date": "13/Oct/2015",
+                "event": "Columnas cotizador y #vales agregadas en el listado de requisiciones"
             },
             {
                 "date": "07/Oct/2015",
@@ -34,16 +46,8 @@
         ],
         "todos": [
             {
-                "description": "En el listado de vales de compra, conocer cual es el número de su requisición",
-                "priority": 3
-            },
-            {
-                "description": "Conocer si una requisición tiene ninguno, uno o varios vales de compra (conocer el folio del vale)",
-                "priority": 3
-            },
-            {
-                "description": "Columna de cotizador para el listado de requisiciones",
-                "priority": 4
+                "description": "Imprimir cuadro comparativo",
+                "priority": 5
             },
             {
                 "description": "Poder revisar la carga de trabajo de cada cotizador (atrículos procesados)",
@@ -51,14 +55,6 @@
             },
             {
                 "description": "Filtrar las requisiciones por cotizador",
-                "priority": 3
-            },
-            {
-                "description": "Filtrar por oficina en el listado de requisiciones",
-                "priority": 4
-            },
-            {
-                "description": "Conocer cuales vales están pendientes. Actualmente un indicio es ver la fecha de la cotización pero lo mejor sería en función del vale de compra",
                 "priority": 3
             },
             {
