@@ -1,5 +1,29 @@
 [
     {
+        "title": "apache Cordova",
+        "url": "https://cordova.apache.org/",
+        "description": "Aprender el proceso de instalación y los requerimientos necesarios para la puesta en marcha",
+        "status": "Instalación y puesta en marcha",
+        "tags": "desarrollo de software multiplataforma",
+        "icono": "cordova.png"
+    },
+    {
+        "title": "Yii framework",
+        "url": "http://www.yiiframework.com/",
+        "description": "Preparar un plan de estudio y ejemplos para un acercamiento a yii framework para quién esé interesado en ir a la asesoría",
+        "status": "Completado",
+        "tags": "asesorías",
+        "icono": "yii.png"
+    },
+    {
+        "title": "Suite Financiera",
+        "url": "http://www.suitefinancierauruapan.gob.mx/sfmuruapan2015/loginwp.aspx",
+        "description": "Estudio y analísis de los procesos",
+        "status": "en estudio",
+        "tags": "contabilidad gubernamental",
+        "icono": "suitefinanciera_sf.jpg"
+    },
+    {
         "title": "Crystal Reports 8.0",
         "url": "",
         "description": "Aprender a crear y editar reportes",

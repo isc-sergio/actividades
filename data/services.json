@@ -1,5 +1,30 @@
 [
     {
+        "date": "10/Dic/2015",
+        "event": "Configurar para adquisiciones los sistemas Control de Compras y Control de Vales de Combustible en el sitio del DIF",
+        "tags": "sistemas Control de Compras y Control de Vales de Combustible"
+    },
+    {
+        "date": "17/Nov/2015",
+        "event": "Asesorías de Yii framework para Juan Carlos",
+        "tags": "asesorías"
+    },
+    {
+        "date": "10/Nov/2015",
+        "event": "Asesorías de Yii framework para Enrrique y Juan Carlos",
+        "tags": "asesorías"
+    },
+    {
+        "date": "06/Nov/2015",
+        "event": "Habilitar sistema Control de Compras en la PC de Jorge y Sofía",
+        "tags": "sistema Control de Compras"
+    },
+    {
+        "date": "26/Oct/2015",
+        "event": "Investigación para configurar, conectar y usar base de datos MS SQL Server con Yii framework",
+        "tags": "sql"
+    },
+    {
         "date": "23/Oct/2015",
         "event": "Respaldo en CD de las hojas amarilla y azul",
         "tags": "sistema Control de Cartillas del Servicio Militar Nacional"

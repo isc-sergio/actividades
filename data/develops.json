@@ -7,6 +7,42 @@
         "imgmodalid": "combustible",
         "events": [
             {
+                "date": "22/Dic/2015",
+                "event": "Proceso Cancelar Express modo ajax"
+            },
+            {
+                "date": "11/Dic/2015",
+                "event": "Proceso Cancelar Express modo normal"
+            },
+            {
+                "date": "07/Dic/2015",
+                "event": "Cancelar Vales de Combustible mejorado"
+            },
+            {
+                "date": "23/Nov/2015",
+                "event": "Reporte de vales de combustible por semana"
+            },
+            {
+                "date": "19/Nov/2015",
+                "event": "Refinar reporte de vales de combustible por mes"
+            },
+            {
+                "date": "11/Nov/2015",
+                "event": "Validar folio de requisición"
+            },
+            {
+                "date": "10/Nov/2015",
+                "event": "Validar folio e indicar desde cual está en uso"
+            },
+            {
+                "date": "06/Nov/2015",
+                "event": "Proceso de Generar vales de combustible mejorado"
+            },
+            {
+                "date": "27/Oct/2015",
+                "event": "Reporte de vales de combustible por mes (por oficina o por secretaría)"
+            },
+            {
                 "date": "23/Sep/2015",
                 "event": "Análisis preeliminar para mejorar el formato de los folios"
             },

@@ -8,6 +8,14 @@
         "imgmodalid": "compras",
         "events": [
             {
+                "date": "17/Dic/2015",
+                "event": "Reporte por mes por familias"
+            },
+            {
+                "date": "01/Dic/2015",
+                "event": "Imprimir cuadro comparativo (cotización)"
+            },
+            {
                 "date": "26/Oct/2015",
                 "event": "Reportes de requisiciones, correciones y mejoras terminadas"
             },
@@ -46,10 +54,6 @@
         ],
         "todos": [
             {
-                "description": "Imprimir cuadro comparativo",
-                "priority": 5
-            },
-            {
                 "description": "Poder revisar la carga de trabajo de cada cotizador (atrículos procesados)",
                 "priority": 4
             },
@@ -75,6 +79,26 @@
         "img": "cartillas.png",
         "imgmodalid": "cartillas",
         "events": [
+            {
+                "date": "26/Nov/2015",
+                "event": "Mínería de datos"
+            },
+            {
+                "date": "25/Nov/2015",
+                "event": "Modificar reportes y mínería de datos"
+            },
+            {
+                "date": "12/Nov/2015",
+                "event": "Mineria de datos en dos reportes con datos faltantes y correccion de formularios en el campo grado máximo de estudios"
+            },
+            {
+                "date": "06/Nov/2015",
+                "event": "Mínería de datos"
+            },
+            {
+                "date": "04/Nov/2015",
+                "event": "Cambio de los encabezados en todos los reportes"
+            },
             {
                 "date": "22/Oct/2015",
                 "event": "Minería de datos y adecuación de reportes"
@@ -164,8 +188,12 @@
         "imgmodalid": "ventanillaunica",
         "events": [
             {
-                "date": "01/Sept/2015",
-                "event": "Hacer merge de los módulos dispersos y preparar una copia lical y funcional en al menos dos computadoras"
+                "date": "24/Nov/2015",
+                "event": "Reinstalación de forma local del sistema cige-sidepol"
+            },
+            {
+                "date": "01/Sep/2015",
+                "event": "Hacer merge de los módulos dispersos y preparar una copia local y funcional en al menos dos computadoras"
             },
             {
                 "date": "01/May/2015",
@@ -180,10 +208,10 @@
         ]
     },
     {
-        "name": "Control de Vales de Combustible (legacy)",
+        "name": "Control de Vales de Combustible",
         "office": "Dirección de Adquisiciones y Arrendamientos",
         "startdate": "01/Sep/2014",
-        "inproduction": "Si con reservas",
+        "inproduction": "Legacy",
         "img": "combustible.jpg",
         "imgmodalid": "combustible",
         "events": [
@@ -192,6 +220,15 @@
                 "event": "Estar listo para dar soporte en éste sistema y sus bases de datos"
             }
         ],
-        "todos": []
+        "todos": [
+            {
+                "description": "Crear un reporte donde muestre los montos o litros y el conteo de vahículos, separado en los meses de un año en particular",
+                "priority": 2
+            },
+            {
+                "description": "Migrar el sistema a la versión 2 de Yii framework",
+                "priority": 1
+            }
+        ]
     }
 ]

@@ -1,5 +1,10 @@
 [
     {
+        "title": "Acercamiento a Yii framework",
+        "subtitle": "asesoría",
+        "teaser": "Acercamiento a Yii framework fue una asesoría con duración de 5 días, donde participamos un grupo de personas de diferentes áreas"
+    },
+    {
         "title": "Actividades",
         "subtitle": "puesta en marcha",
         "teaser": "La aplicación web Actividades está en su versión 1.0 y cambia al estado En Producción. La cual, muestra mis actividades de una forma amigable"
