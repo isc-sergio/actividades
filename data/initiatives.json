@@ -10,7 +10,7 @@
     {
         "title": "Yii framework",
         "url": "http://www.yiiframework.com/",
-        "description": "Preparar un plan de estudio y ejemplos para un acercamiento a yii framework para quién esé interesado en ir a la asesoría",
+        "description": "Preparar un plan de estudio y ejemplos para un acercamiento a yii framework para quién esté interesado en ir a la asesoría",
         "status": "Completado",
         "tags": "asesorías",
         "icono": "yii.png"
@@ -67,7 +67,7 @@
         "title": "Ubuntu",
         "url": "http://www.ubuntu.com/server",
         "description": "Experimentar con las funcionalidades y revisar las características para determinar su uso como servidor",
-        "status": "Es una de las mejore sopciones considerando el enfoque del sistema operativo y un gran punto a su favor es la paquetería de Zentyal para administrar el servidor",
+        "status": "Es una de las mejores opciones considerando el enfoque del sistema operativo y un gran punto a su favor es la paquetería de Zentyal para administrar el servidor",
         "tags": "servidor UNIX like",
         "icono": "ubuntu.png"
     },
